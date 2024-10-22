@@ -18,6 +18,18 @@ This web application allows users to browse and rent cars, manage bookings, and 
 - **Server**: Apache Tomcat
 - **Tools**: Eclipse IDE, XAMPP
 
+## Technologies Used
+
+
+| Language/Tehnology  | Procentaj       |
+|-------------------|-----------------|
+| **Java**          | 50%             |
+| **HTML**          | 25%             |
+| **CSS**           | 25%             |
+
+> **Note:** These percentages are automatically calculated by GitHub based on the project files.
+
+
 ## Features
 
 - User authentication and authorization (login, register)
